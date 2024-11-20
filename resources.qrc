@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>PopupQuestion.qml</file>
+        <file>Style.qml</file>
+        <file>PrincipalPage.qml</file>
+        <file>PrincipalComponent.qml</file>
+        <file>LoginPage.qml</file>
+    </qresource>
+</RCC>
